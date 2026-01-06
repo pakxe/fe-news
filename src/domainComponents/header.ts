@@ -1,4 +1,4 @@
-import { renderLogo } from "../components/logo";
+import { renderLogo } from "./logo";
 import { renderCurDate } from "../components/curDate";
 
 export function renderHeader() {
